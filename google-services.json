@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "851883788885",
+    "firebase_url": "https://halo3002ass2-default-rtdb.firebaseio.com",
+    "project_id": "halo3002ass2",
+    "storage_bucket": "halo3002ass2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:851883788885:android:6336fafb275fdc4326e2dc",
+        "android_client_info": {
+          "package_name": "comp5216.sydney.edu.au.mediaacces"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "851883788885-eterbs70q5kdl9e243j2ple26fi3ec9e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGzIj3l1dR5AjUaDfF3Eq-1RqR9LiwBgw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "851883788885-eterbs70q5kdl9e243j2ple26fi3ec9e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

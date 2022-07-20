@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MediaAcces</string>
+    <string-array name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+
+
+    </string-array>
+</resources>
